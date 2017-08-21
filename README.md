@@ -1,2 +1,2 @@
-# law_club
+# ffs
 法法社
