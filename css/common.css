@@ -49,6 +49,9 @@ html, body {background: #fafafa; overflow: hidden; min-width: 1300px;height: 100
 .ffs h5{height: 26px;line-height: 26px;border-left:4px solid #616ed6;padding-left: 15px;}
 .ffs .cont{width: 100%;margin-bottom: 15px;background: #fff;border:1px solid #ddd;padding: 10px 20px 20px 20px;}
 
+.ffs .bk-horz-nav.bk-horz-nav-min, 
+.ffs .bk-horz-nav11.bk-horz-nav-min{padding-left: 24px;}
+
 .ffs .cont .bk-label{padding-left: 20px;color: #aaa;padding: 0 20px 0 0;line-height: 36px;}
 .ffs .cont .bk-table{background: #fff;}
 .ffs .cont .bk-form-content{margin-left: 150px;line-height: 34px;}
